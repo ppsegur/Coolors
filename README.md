@@ -8,4 +8,4 @@ La aplicación permite:
 Generar paletas de colores al azar con un botón.
 Bloquear colores para mantenerlos en la siguiente generación.
 Compartir las paletas generadas fácilmente.
-(assets/generadorpng.png)
+(![image](https://github.com/user-attachments/assets/4f498030-f092-4f49-b561-0ce4b6204c8b))
